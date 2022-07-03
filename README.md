@@ -2,7 +2,7 @@
 
 ## Overview of Analysis
 
-The purpose of this analysis was to review the paid Amazon Vine Program and determine if there is a bias inherent in the program. The data was publically available data sourced from AWS at [this url]("https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt")
+The purpose of this analysis was to review the paid Amazon Vine Program and determine if there is a bias inherent in the program. The data was publically available data sourced from AWS at [this url.](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 
 There were 50 separate datasets available to review. The dataset utilized in this analysis was the "Video Games" dataset, which can be found at the following [hyperlink.](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
 
